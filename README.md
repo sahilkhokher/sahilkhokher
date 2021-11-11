@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">Hello There All, Welcome. If You Visit My Profile, I Will Be Happy My Name Is Sahil. I Have Done My Certification In Web Designing. I Will Create A Fully Responsive Website According To Your Desires. Following Are These Techniques In AWeb Programming, Including Unique Expertise That Combines User Interface Know-How With CSS|HTML|Javascript|Bootstrap|React Js. And Other Tools Including Netlify|Github|Firebase. Unique Expertise Combines User Interface Know-How With CSS|HTML|Javascript|Bootstrap|React Js. It Comes From In-Depth Knowledge Of Web Technologies Gained From Research And Professional Experience. Any Help Would Be Much Appreciated.</h3>
+<h3 align="center">Hello There All, Welcome. If You Visit My Profile, I Will Be Happy. I Have Done My Certification In Web Designing. I Will Create A Fully Responsive Website According To Your Desires. Following Are These Techniques In A Web Programming, Including Unique Expertise That Combines User Interface Know-How With And Other Tools Including. Unique Expertise Combines User Interface Know-How. It Comes From In-Depth Knowledge Of Web Technologies Gained From Research And Professional Experience. 
+Any Help Would Be Much Appreciated.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkhokher&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkhokher" /> </p>
 
